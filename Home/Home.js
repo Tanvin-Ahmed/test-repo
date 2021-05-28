@@ -1,1 +1,2 @@
-console.log('add successfully. nwdwdjw ewed wedwe dwefkjwfwfk wefwef nfwekf')
+console.log('add successfully. nwdwdjw ewed wedwe dwefkjwfwfk wefwef nfwekf');
+console.log('sfsdfsdfsdfsksdfsdk');
